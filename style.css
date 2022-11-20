@@ -163,3 +163,23 @@ header {
   justify-content: center;
   padding-top: 20px;
 }
+
+.expertise {
+  background-color: white;
+  
+  
+
+}
+.expertise-title {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+
+.expertise-table {
+  display: flex;
+  justify-content: center;
+  
+  
+}
